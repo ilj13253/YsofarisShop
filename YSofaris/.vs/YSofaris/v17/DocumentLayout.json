@@ -1,0 +1,834 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\butac\\source\\repos\\YSofaris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\productsmanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\productsmanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\productsmanager\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\productsmanager\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\productsmanager\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\productsmanager\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\productsmanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\productsmanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\productsmanager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\productsmanager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\viewmodel\\productdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\viewmodel\\productdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\core\\sortproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\core\\sortproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofaridb\\sofaridb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|solutionrelative:sofaridb\\sofaridb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\repositories\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\repositories\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838359F-9B76-4399-B04E-F1C8A34014D4}|SOFARI\\SOFARI.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofari\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838359F-9B76-4399-B04E-F1C8A34014D4}|SOFARI\\SOFARI.csproj|solutionrelative:sofari\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838359F-9B76-4399-B04E-F1C8A34014D4}|SOFARI\\SOFARI.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofari\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838359F-9B76-4399-B04E-F1C8A34014D4}|SOFARI\\SOFARI.csproj|solutionrelative:sofari\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838359F-9B76-4399-B04E-F1C8A34014D4}|SOFARI\\SOFARI.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofari\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838359F-9B76-4399-B04E-F1C8A34014D4}|SOFARI\\SOFARI.csproj|solutionrelative:sofari\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838359F-9B76-4399-B04E-F1C8A34014D4}|SOFARI\\SOFARI.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofari\\productimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838359F-9B76-4399-B04E-F1C8A34014D4}|SOFARI\\SOFARI.csproj|solutionrelative:sofari\\productimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9838359F-9B76-4399-B04E-F1C8A34014D4}|SOFARI\\SOFARI.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofari\\whishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9838359F-9B76-4399-B04E-F1C8A34014D4}|SOFARI\\SOFARI.csproj|solutionrelative:sofari\\whishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\controllers\\productsmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\controllers\\productsmanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\core\\paginationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\core\\paginationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\repositories\\repositorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\repositories\\repositorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\repositories\\interfaces\\irepositorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\repositories\\interfaces\\irepositorycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\viewmodel\\productslistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\viewmodel\\productslistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\ysofaris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\ysofaris.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofaridb\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|solutionrelative:sofaridb\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofaridb\\sofaridb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|solutionrelative:sofaridb\\sofaridb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofaridb\\migrations\\20240925153844_addproductimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|solutionrelative:sofaridb\\migrations\\20240925153844_addproductimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofaridb\\migrations\\20240924082517_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|solutionrelative:sofaridb\\migrations\\20240924082517_addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofaridb\\sofaridb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|solutionrelative:sofaridb\\sofaridb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofaridb\\migrations\\sofaridbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|solutionrelative:sofaridb\\migrations\\sofaridbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofaridb\\migrations\\20240928155023_addcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|solutionrelative:sofaridb\\migrations\\20240928155023_addcolors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofaridb\\migrations\\20240926082010_addprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|solutionrelative:sofaridb\\migrations\\20240926082010_addprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\ysofaris.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\ysofaris.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240925153600_AddProductImg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SofariDb\\Migrations\\20240925153600_AddProductImg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\ysofaris\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BCC41B9-53CF-454E-9170-F188BA1DCBDE}|YSofaris\\YSofaris.csproj|solutionrelative:ysofaris\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|c:\\users\\butac\\source\\repos\\ysofaris\\sofaridb\\migrations\\20240928150358_addcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE556BE-8832-437C-BC1A-E4822F8547DB}|SofariDb\\SofariDb.csproj|solutionrelative:sofaridb\\migrations\\20240928150358_addcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:30:40.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T17:11:44.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\ProductsManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\ProductsManager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\ProductsManager\\Index.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\ProductsManager\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T17:14:50.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\ProductsManager\\Edit.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\ProductsManager\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\ProductsManager\\Edit.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\ProductsManager\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:29:46.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T17:11:08.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T16:44:08.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:30:04.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\ProductsManager\\Details.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\ProductsManager\\Details.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\ProductsManager\\Details.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\ProductsManager\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:29:03.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\ProductsManager\\Delete.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\ProductsManager\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\ProductsManager\\Delete.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\ProductsManager\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:29:07.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\ProductsManager\\Create.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\ProductsManager\\Create.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\ProductsManager\\Create.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\ProductsManager\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:29:57.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\ViewModel\\ProductDetailsVM.cs",
+              "RelativeDocumentMoniker": "YSofaris\\ViewModel\\ProductDetailsVM.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\ViewModel\\ProductDetailsVM.cs",
+              "RelativeToolTip": "YSofaris\\ViewModel\\ProductDetailsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:10:16.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Program.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Program.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Program.cs",
+              "RelativeToolTip": "YSofaris\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:39:13.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SortProduct.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Core\\SortProduct.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Core\\SortProduct.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Core\\SortProduct.cs",
+              "RelativeToolTip": "YSofaris\\Core\\SortProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:49:50.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\CartController.cs",
+              "RelativeToolTip": "YSofaris\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:09:09.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "YSofaris\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:47:28.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SOFARIDB.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\SOFARIDB.cs",
+              "RelativeDocumentMoniker": "SofariDb\\SOFARIDB.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\SOFARIDB.cs",
+              "RelativeToolTip": "SofariDb\\SOFARIDB.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:19:19.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "YSofaris\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:29:10.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Repositories\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Repositories\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Repositories\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "YSofaris\\Repositories\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:38:45.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "YSofaris\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:45:54.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SOFARI\\Category.cs",
+              "RelativeDocumentMoniker": "SOFARI\\Category.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SOFARI\\Category.cs",
+              "RelativeToolTip": "SOFARI\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:50:31.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SOFARI\\Order.cs",
+              "RelativeDocumentMoniker": "SOFARI\\Order.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SOFARI\\Order.cs",
+              "RelativeToolTip": "SOFARI\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:26:11.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SOFARI\\Product.cs",
+              "RelativeDocumentMoniker": "SOFARI\\Product.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SOFARI\\Product.cs",
+              "RelativeToolTip": "SOFARI\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:23:08.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductImg.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SOFARI\\ProductImg.cs",
+              "RelativeDocumentMoniker": "SOFARI\\ProductImg.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SOFARI\\ProductImg.cs",
+              "RelativeToolTip": "SOFARI\\ProductImg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:24:02.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WhishList.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SOFARI\\WhishList.cs",
+              "RelativeDocumentMoniker": "SOFARI\\WhishList.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SOFARI\\WhishList.cs",
+              "RelativeToolTip": "SOFARI\\WhishList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:27:26.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "YSofaris\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:30:22.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductsManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\ProductsManagerController.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Controllers\\ProductsManagerController.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\ProductsManagerController.cs",
+              "RelativeToolTip": "YSofaris\\Controllers\\ProductsManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:44:22.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PaginationList.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Core\\PaginationList.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Core\\PaginationList.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Core\\PaginationList.cs",
+              "RelativeToolTip": "YSofaris\\Core\\PaginationList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:48:50.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RepositoryCard.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Repositories\\RepositoryCard.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Repositories\\RepositoryCard.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Repositories\\RepositoryCard.cs",
+              "RelativeToolTip": "YSofaris\\Repositories\\RepositoryCard.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:52:53.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepositoryCard.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Repositories\\Interfaces\\IRepositoryCard.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Repositories\\Interfaces\\IRepositoryCard.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Repositories\\Interfaces\\IRepositoryCard.cs",
+              "RelativeToolTip": "YSofaris\\Repositories\\Interfaces\\IRepositoryCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T13:34:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T16:52:51.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductsListVM.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\ViewModel\\ProductsListVM.cs",
+              "RelativeDocumentMoniker": "YSofaris\\ViewModel\\ProductsListVM.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\ViewModel\\ProductsListVM.cs",
+              "RelativeToolTip": "YSofaris\\ViewModel\\ProductsListVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:10:56.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "YSofaris.csproj",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\YSofaris.csproj",
+              "RelativeDocumentMoniker": "YSofaris\\YSofaris.csproj",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\YSofaris.csproj",
+              "RelativeToolTip": "YSofaris\\YSofaris.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-27T06:09:44.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\appsettings.json",
+              "RelativeDocumentMoniker": "YSofaris\\appsettings.json",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\appsettings.json",
+              "RelativeToolTip": "YSofaris\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T14:37:25.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "YSofaris\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:14:37.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T18:05:12.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "SofariDb\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ProductConfiguration.cs",
+              "RelativeToolTip": "SofariDb\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:30:07.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SofariDb.csproj",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\SofariDb.csproj",
+              "RelativeDocumentMoniker": "SofariDb\\SofariDb.csproj",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\SofariDb.csproj",
+              "RelativeToolTip": "SofariDb\\SofariDb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-23T14:45:27.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240925153844_AddProductImg.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240925153844_AddProductImg.cs",
+              "RelativeDocumentMoniker": "SofariDb\\Migrations\\20240925153844_AddProductImg.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240925153844_AddProductImg.cs",
+              "RelativeToolTip": "SofariDb\\Migrations\\20240925153844_AddProductImg.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:38:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SofariDb",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\SofariDb.csproj",
+              "RelativeDocumentMoniker": "SofariDb\\SofariDb.csproj",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\SofariDb.csproj",
+              "RelativeToolTip": "SofariDb\\SofariDb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-29T05:48:54.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240924082517_AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240924082517_AddProduct.cs",
+              "RelativeDocumentMoniker": "SofariDb\\Migrations\\20240924082517_AddProduct.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240924082517_AddProduct.cs",
+              "RelativeToolTip": "SofariDb\\Migrations\\20240924082517_AddProduct.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T08:25:17.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SOFARIDBModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\SOFARIDBModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SofariDb\\Migrations\\SOFARIDBModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\SOFARIDBModelSnapshot.cs",
+              "RelativeToolTip": "SofariDb\\Migrations\\SOFARIDBModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABBwCsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:40:56.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240928155023_AddColors.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240928155023_AddColors.cs",
+              "RelativeDocumentMoniker": "SofariDb\\Migrations\\20240928155023_AddColors.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240928155023_AddColors.cs",
+              "RelativeToolTip": "SofariDb\\Migrations\\20240928155023_AddColors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:50:23.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAJkTAAAAAAAAAAAMwKkTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-29T05:40:18.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "YSofaris\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "YSofaris\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T15:13:41.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240928150358_AddCategories.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240928150358_AddCategories.cs",
+              "RelativeDocumentMoniker": "SofariDb\\Migrations\\20240928150358_AddCategories.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240928150358_AddCategories.cs",
+              "RelativeToolTip": "SofariDb\\Migrations\\20240928150358_AddCategories.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:03:59.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240926082010_AddPrice.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240926082010_AddPrice.cs",
+              "RelativeDocumentMoniker": "SofariDb\\Migrations\\20240926082010_AddPrice.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240926082010_AddPrice.cs",
+              "RelativeToolTip": "SofariDb\\Migrations\\20240926082010_AddPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T08:20:11.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "YSofaris",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\YSofaris.csproj",
+              "RelativeDocumentMoniker": "YSofaris\\YSofaris.csproj",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\YSofaris.csproj",
+              "RelativeToolTip": "YSofaris\\YSofaris.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-25T17:29:25.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240925153600_AddProductImg.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240925153600_AddProductImg.cs",
+              "RelativeDocumentMoniker": "SofariDb\\Migrations\\20240925153600_AddProductImg.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\SofariDb\\Migrations\\20240925153600_AddProductImg.cs",
+              "RelativeToolTip": "SofariDb\\Migrations\\20240925153600_AddProductImg.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:36:00.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "YSofaris\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\butac\\source\\repos\\YSofaris\\YSofaris\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "YSofaris\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:16:33.534Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

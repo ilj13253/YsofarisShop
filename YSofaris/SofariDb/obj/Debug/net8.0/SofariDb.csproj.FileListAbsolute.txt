@@ -1,0 +1,17 @@
+C:\Users\butac\source\repos\YSofaris\SofariDb\bin\Debug\net8.0\SofariDb.deps.json
+C:\Users\butac\source\repos\YSofaris\SofariDb\bin\Debug\net8.0\SofariDb.runtimeconfig.json
+C:\Users\butac\source\repos\YSofaris\SofariDb\bin\Debug\net8.0\SofariDb.dll
+C:\Users\butac\source\repos\YSofaris\SofariDb\bin\Debug\net8.0\SofariDb.pdb
+C:\Users\butac\source\repos\YSofaris\SofariDb\bin\Debug\net8.0\SOFARI.dll
+C:\Users\butac\source\repos\YSofaris\SofariDb\bin\Debug\net8.0\SOFARI.pdb
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\SofariDb.csproj.AssemblyReference.cache
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\SofariDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\SofariDb.AssemblyInfoInputs.cache
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\SofariDb.AssemblyInfo.cs
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\SofariDb.csproj.CoreCompileInputs.cache
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\SofariDb.csproj.Up2Date
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\SofariDb.dll
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\refint\SofariDb.dll
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\SofariDb.pdb
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\SofariDb.genruntimeconfig.cache
+C:\Users\butac\source\repos\YSofaris\SofariDb\obj\Debug\net8.0\ref\SofariDb.dll

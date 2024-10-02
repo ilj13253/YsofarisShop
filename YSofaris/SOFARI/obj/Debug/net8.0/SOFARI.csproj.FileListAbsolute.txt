@@ -1,0 +1,14 @@
+C:\Users\butac\source\repos\YSofaris\SOFARI\bin\Debug\net8.0\SOFARI.deps.json
+C:\Users\butac\source\repos\YSofaris\SOFARI\bin\Debug\net8.0\SOFARI.runtimeconfig.json
+C:\Users\butac\source\repos\YSofaris\SOFARI\bin\Debug\net8.0\SOFARI.dll
+C:\Users\butac\source\repos\YSofaris\SOFARI\bin\Debug\net8.0\SOFARI.pdb
+C:\Users\butac\source\repos\YSofaris\SOFARI\obj\Debug\net8.0\SOFARI.csproj.AssemblyReference.cache
+C:\Users\butac\source\repos\YSofaris\SOFARI\obj\Debug\net8.0\SOFARI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\butac\source\repos\YSofaris\SOFARI\obj\Debug\net8.0\SOFARI.AssemblyInfoInputs.cache
+C:\Users\butac\source\repos\YSofaris\SOFARI\obj\Debug\net8.0\SOFARI.AssemblyInfo.cs
+C:\Users\butac\source\repos\YSofaris\SOFARI\obj\Debug\net8.0\SOFARI.csproj.CoreCompileInputs.cache
+C:\Users\butac\source\repos\YSofaris\SOFARI\obj\Debug\net8.0\SOFARI.dll
+C:\Users\butac\source\repos\YSofaris\SOFARI\obj\Debug\net8.0\refint\SOFARI.dll
+C:\Users\butac\source\repos\YSofaris\SOFARI\obj\Debug\net8.0\SOFARI.pdb
+C:\Users\butac\source\repos\YSofaris\SOFARI\obj\Debug\net8.0\SOFARI.genruntimeconfig.cache
+C:\Users\butac\source\repos\YSofaris\SOFARI\obj\Debug\net8.0\ref\SOFARI.dll

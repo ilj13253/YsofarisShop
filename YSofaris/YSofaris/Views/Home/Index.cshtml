@@ -1,0 +1,52 @@
+﻿@using SOFARI
+@model List<Product>
+
+<div class="container mt-3">
+    <h1>ГЛАВА!</h1>
+    <div class="row row-cols-4 mt-4 gap-4">
+        @if (Model is not null)
+        {
+            @foreach (var product in Model)
+            {
+                <div class="card" style="width:18rem;">
+                    <a asp-controller="Product" asp-action="Details" asp-route-id="@product.Id" style="text-decoration:inherit;color:inherit;">
+                        <img src="@product.PreviewImg" class="card-img-top" alt="@product.Title" />
+                        <div class="card-body">
+                            <h5 class="card-title">@product.Title</h5>
+                            <a asp-controller="Product" asp-action="Details" asp-route-id="@product.Id" class="btn btn-primary">Купить</a>
+                        </div>
+                    </a>
+                </div>
+            }
+        }
+    </div>
+
+</div>
+<!--
+                    <form method="post">
+                    <div>
+                        <label>Name:</label>
+                        <input type="text" asp-for="product.Title" />
+                    </div>
+                    <div>
+                        <label>Description:</label>
+                        <textarea asp-for="product.Description"></textarea>
+                    </div>
+                    <div>
+                        <label>Price:</label>
+                        <input type="number" asp-for="product.Price" />
+                    </div>
+                    <div>
+                        <label>Image URL:</label>
+                        <input type="text" asp-for="product.PreviewImg" />
+                    </div>
+                    <button type="submit">Create</button>
+                </form>
+-->
+
+
+
+<!--div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div-->
